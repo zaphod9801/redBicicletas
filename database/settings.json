@@ -1,0 +1,5 @@
+{
+    "dburl":"mongodb://mongodb:27017/",
+    "dbcollection":"RedBicicletas",
+    "collection":"Bicicletas"
+}
